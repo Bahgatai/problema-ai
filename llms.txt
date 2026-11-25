@@ -1,0 +1,23 @@
+# Problema
+
+> Plain-language answers to everyday problems, each with a product that may help, its real AliExpress price and rating (checked 2026-11-26), and clear affiliate disclosure. Products are not tested by us.
+
+## Products
+- [High Pressure Water Spray Gun](https://bahgatai.github.io/problema-ai/products/spray-gun.html): about $5.99 USD, rated 4.4/5, 10,000+ sold on AliExpress
+- [6L/11L Portable Folding Washing Machine with Spin Dryer Bucket](https://bahgatai.github.io/problema-ai/products/folding-washer.html): about $35.08 USD, rated 4.0/5, 116 sold on AliExpress
+- [Car Windshield Snow and Sun Shade Cover](https://bahgatai.github.io/problema-ai/products/windshield-cover.html): about $1.09 USD, rated 4.5/5, 10,000+ sold on AliExpress
+
+## Problems and answers
+- [How do I wash my car at home without going to a car wash?](https://bahgatai.github.io/problema-ai/problems/wash-car-at-home.html)
+- [How can I water my garden without wasting water?](https://bahgatai.github.io/problema-ai/problems/garden-watering.html)
+- [How do I quickly clean a patio or balcony floor?](https://bahgatai.github.io/problema-ai/problems/clean-patio-floor.html)
+- [What can I use for laundry if I have no space for a washing machine?](https://bahgatai.github.io/problema-ai/problems/small-apartment-no-space.html)
+- [How can I do laundry while traveling or on a long stay?](https://bahgatai.github.io/problema-ai/problems/travel-laundry.html)
+- [How can I wash baby clothes separately from the family laundry?](https://bahgatai.github.io/problema-ai/problems/wash-baby-clothes-separately.html)
+- [How do I stop frost or snow from building up on my windshield overnight?](https://bahgatai.github.io/problema-ai/problems/frost-on-windshield.html)
+- [How do I keep my car cooler when parked in the sun?](https://bahgatai.github.io/problema-ai/problems/car-heat-summer.html)
+- [How do I protect my windshield from dust, leaves and bird droppings?](https://bahgatai.github.io/problema-ai/problems/dust-leaves-bird-droppings.html)
+
+## Policies
+- [Affiliate disclosure](https://bahgatai.github.io/problema-ai/disclosure.html)
+- [About](https://bahgatai.github.io/problema-ai/about.html)
