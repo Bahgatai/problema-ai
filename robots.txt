@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bahgatai.github.io/problema-ai/sitemap.xml
+Sitemap: https://problema.ai/sitemap.xml
